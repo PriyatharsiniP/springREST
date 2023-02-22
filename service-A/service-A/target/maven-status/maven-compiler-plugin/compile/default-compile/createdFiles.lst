@@ -1,0 +1,4 @@
+com\example\serviceA\configuration\ServiceAConfig.class
+com\example\serviceA\entity\Data.class
+com\example\serviceA\ServiceAApplication.class
+com\example\serviceA\controller\ServiceAController.class
