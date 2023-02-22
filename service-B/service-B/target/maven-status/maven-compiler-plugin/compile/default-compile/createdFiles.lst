@@ -1,0 +1,3 @@
+com\example\serviceB\ServiceBApplication.class
+com\example\serviceB\controller\ServiceBController.class
+com\example\serviceB\entity\Data.class
